@@ -249,14 +249,14 @@ def payment_process():
 
 def page1():
     """
-    To run Page 1 or IRCTC Seperately
+    To run Page 1 of IRCTC Seperately
     """
     search_train()
     time.sleep(1)
 
 def page2():
     """
-    To run Page 2 or IRCTC Seperately
+    To run Page 2 of IRCTC Seperately
     """
     click_tatkal_dd()
     time.sleep(1)
@@ -267,21 +267,21 @@ def page2():
 
 def page3():
     """
-    To run Page 3 or IRCTC Seperately
+    To run Page 3 of IRCTC Seperately
     """
     add_passengers()
     time.sleep(1)
 
 def page4():
     """
-    To run Page 4 or IRCTC Seperately
+    To run Page 4 of IRCTC Seperately
     """
     continue_booking()
     time.sleep(1)
 
 def page5():
     """
-    To run Page 5 or IRCTC Seperately
+    To run Page 5 of IRCTC Seperately
     """
     payment_process()
 
